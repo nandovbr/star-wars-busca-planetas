@@ -10,4 +10,3 @@ Nesse projeto, você será capaz de:
 * Utilizar o _React Hook useState_;
 * Utilizar o _React Hook useContext_;
 * Utilizar o _React Hook useEffect_;
-* 
