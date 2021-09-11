@@ -6,7 +6,7 @@
 
 Nesse projeto, você será capaz de:
 
-* Context API_ do **React** para gerenciar estado.
-* React Hook useState_;
-* React Hook useContext_;
-* React Hook useEffect_;
+* Context API do **React** para gerenciar estado.
+* React Hook useState;
+* React Hook useContext;
+* React Hook useEffect;
